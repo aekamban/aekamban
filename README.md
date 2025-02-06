@@ -4,16 +4,16 @@ Hi, I’m Abi Kambanis, a Data Scientist passionate about transforming data into
 I am currently pursuing my Master of Science in Data Science at the University of Rhode Island and completing MIT’s Applied Data Science Program, where I’ve gained hands-on experience in AI, ML, and recommendation systems. My work spans climate science, business analytics, finance, and marketing, leveraging data-driven strategies to optimize decision-making.
 
 ## **📌 Featured Projects**
-📊 Investment Strategy Optimization – Repository
+### **📊 Investment Strategy Optimization – Repository**
 Utilized machine learning models to forecast store profitability for investment decision-making in the retail sector.
 
-## **🌍 Climate Data Analysis: Coastal vs. Inland Trends – Repository**
+### **🌍 Climate Data Analysis: Coastal vs. Inland Trends – Repository**
 Analyzed decadal climate patterns using NOAA's GSOD data and geospatial visualizations with ArcGIS.
 
-## **🍽 Business Data Analysis: Restaurant Demand Forecasting – Repository**
+### **🍽 Business Data Analysis: Restaurant Demand Forecasting – Repository**
 Optimized restaurant performance using SQL, Python, and Tableau to identify customer demand trends.
 
-## **🔍 More Projects Coming Soon**
+### **🔍 More Projects Coming Soon**
 
 ## **💡 Skills & Technologies**
 ✔ Programming & Data Analysis: Python (Pandas, NumPy, Scikit-Learn), SQL, R

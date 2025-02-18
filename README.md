@@ -4,6 +4,10 @@ Hi, I’m Abi Kambanis, a Data Scientist passionate about transforming data into
 I am currently pursuing my Master of Science in Data Science at the University of Rhode Island and completing MIT’s Applied Data Science Program, where I’ve gained hands-on experience in AI, ML, and recommendation systems. My work spans climate science, business analytics, finance, and marketing, leveraging data-driven strategies to optimize decision-making.
 
 ## **📌 Featured Projects**
+
+### **🏡 Boston House Price Prediction – Repository**
+Leveraged machine learning and regression modeling to forecast housing prices, uncover key price drivers, and enhance investment insights.
+
 ### **📊 Investment Strategy Optimization – Repository**
 Utilized machine learning models to forecast store profitability for investment decision-making in the retail sector.
 

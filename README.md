@@ -1,82 +1,139 @@
-# **👋 Welcome to My Data Portfolio!**
-Hi, I’m Abi Kambanis, a Data Scientist passionate about transforming data into actionable insights. With a strong background in machine learning, deep learning, geospatial analysis, and data visualization, I specialize in applying Python, SQL, Tableau, and GIS to solve real-world problems across multiple industries.
+<div style="background-color:#f1f7f3; padding:20px; border-radius:10px; margin-bottom:24px;">
+  
+## Abigail Kambanis  
+**Data Scientist**
 
-I am currently pursuing my Master of Science in Data Science at the University of Rhode Island and completing MIT’s Applied Data Science Program, where I’ve gained hands-on experience in AI, ML, and recommendation systems. My work spans climate science, business analytics, finance, and marketing, leveraging data-driven strategies to optimize decision-making.
+I am an applied data scientist with a background in science and education, focused on building interpretable, decision-oriented models that support real-world outcomes.
 
-## **📌 Featured Projects**
+My work sits at the intersection of data science, education systems, and climate action. I specialize in translating complex data into clear insights that inform strategy and operations, particularly in contexts where human behavior and equity matter.
 
-### **🏡 Boston House Price Prediction – Repository**
-Leveraged machine learning and regression modeling to forecast housing prices, uncover key price drivers, and enhance investment insights.
+I am currently preparing for full-time, mid-level data scientist roles in 2026.
 
-### **📊 Investment Strategy Optimization – Repository**
-Utilized machine learning models to forecast store profitability for investment decision-making in the retail sector.
+</div>
 
-### **🌍 Climate Data Analysis: Coastal vs. Inland Trends – Repository**
-Analyzed decadal climate patterns using NOAA's GSOD data and geospatial visualizations with ArcGIS.
+---
 
-### **🍽 Business Data Analysis: Restaurant Demand Forecasting – Repository**
-Optimized restaurant performance using SQL, Python, and Tableau to identify customer demand trends.
+## Featured Projects
 
-### **🔍 More Projects Coming Soon**
 
-## **💡 Skills & Technologies**
-✔ Programming & Data Analysis: Python (Pandas, NumPy, Scikit-Learn), SQL, R
-✔ Machine Learning & AI: Deep Learning, Time Series Forecasting, Recommendation Systems
-✔ Data Visualization: Tableau, Power BI, Matplotlib, Seaborn
-✔ Big Data & Cloud: AWS, Snowflake, Databricks
-✔ Geospatial Analysis: GIS, ArcGIS, QGIS
+<div style="background-color:#f1f7f3; padding:16px; border-radius:8px; margin-bottom:16px;">
 
-### **📌 Algorithms I Have Experience With**
-I have worked with a wide range of machine learning, deep learning, and statistical algorithms, applying them to real-world datasets across finance, marketing, business analytics, and climate science. Below is a categorized list of the algorithms I have experience with:
+### Tutor Management System  
+**SQL / Data Engineering**
 
-### **🔹 Supervised Learning Algorithms**
-✔ Linear Regression – Predicting continuous outcomes (e.g., sales forecasting, house prices)
-✔ Logistic Regression – Binary classification problems (e.g., fraud detection, churn prediction)
-✔ Decision Trees – Intuitive classification and regression models
-✔ Random Forest – Ensemble learning for improved accuracy and stability
-✔ Gradient Boosting (XGBoost, LightGBM, CatBoost) – High-performance predictive modeling
-✔ Support Vector Machines (SVM) – Complex classification problems
-✔ k-Nearest Neighbors (k-NN) – Instance-based learning for pattern recognition
+Designed a normalized relational database to support scheduling, billing, and analytics for an education services business.
 
-### **🔹 Unsupervised Learning Algorithms**
-✔ K-Means Clustering – Customer segmentation, market analysis
-✔ Hierarchical Clustering – Identifying natural groupings in data
-✔ DBSCAN – Density-based clustering for anomaly detection
-✔ Principal Component Analysis (PCA) – Dimensionality reduction for feature selection
-✔ t-SNE & UMAP – High-dimensional data visualization
+Delivered a scalable schema with enforced business rules, indexing, and analytical queries to support reliable reporting on revenue, enrollment, and instructional capacity.
 
-### **🔹 Time Series & Forecasting Models**
-✔ ARIMA (AutoRegressive Integrated Moving Average) – Time series forecasting
-✔ SARIMA & Prophet – Seasonal time series forecasting
-✔ LSTMs (Long Short-Term Memory Networks) – Deep learning for sequential data
+**Focus:** data modeling, operational analytics, decision reliability
 
-### **🔹 Deep Learning & Neural Networks**
-✔ Feedforward Neural Networks (FNNs) – Basic neural network architectures
-✔ Convolutional Neural Networks (CNNs) – Image classification and feature extraction
-✔ Recurrent Neural Networks (RNNs) – Sequential data analysis
-✔ Transformers (BERT, GPT, T5) – Natural Language Processing (NLP)
-✔ Autoencoders – Anomaly detection, feature engineering
-✔ GANs (Generative Adversarial Networks) – Synthetic data generation
+</div>
 
-### **🔹 Recommendation Systems**
-✔ Collaborative Filtering (User-Based & Item-Based) – Personalized recommendations
-✔ Matrix Factorization (SVD, ALS) – Latent factor modeling
-✔ Hybrid Recommendation Systems – Combining multiple techniques
 
-### **🔹 Anomaly Detection & Optimization**
-✔ Isolation Forest – Detecting rare events and anomalies
-✔ One-Class SVM – Outlier detection in high-dimensional data
-✔ Genetic Algorithms – Optimization and search problems
+---
 
-I have applied these algorithms using Python (Scikit-Learn, TensorFlow, PyTorch, XGBoost, StatsModels, H2O.ai) and have optimized models for business intelligence, finance, marketing, and climate data science. 🚀
 
-## **🚀 Let’s Connect!**
-📧 Email: abikambanis@icloud.com
-💼 LinkedIn: linkedin.com/in/abi-kambanis-data-science
+<div style="background-color:#f1f7f3; padding:16px; border-radius:8px; margin-bottom:16px;">
 
-Looking for exciting data science collaborations or career opportunities? Feel free to reach out—I’d love to chat! 🚀
+### Climate Action Readiness for Educators  
+**Applied Data Science / Analytics**
 
-<!---
-aekamban/aekamban is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Developing a decision-support tool that helps climate educators assess local readiness for climate action and select engagement strategies aligned with community context, using public opinion and engagement indicators.
+
+This project integrates data science with climate education to support evidence-based action while respecting regional, social, and equity considerations.
+
+**Focus:** public data synthesis, decision support, education + climate impact
+
+</div>
+
+
+---
+
+
+<div style="background-color:#f1f7f3; padding:16px; border-radius:8px; margin-bottom:16px;">
+
+### Organizing DSAT Questions by Difficulty  
+**Applied Machine Learning / Computer Vision**
+
+Built an end-to-end ML pipeline combining image preprocessing, OCR, and classification to automate difficulty labeling for Digital SAT questions.
+
+Reduced manual categorization effort and improved instructional planning through consistent, reproducible difficulty estimates.
+
+**Focus:** applied ML pipelines, computer vision, real-world constraints
+
+</div>
+
+
+---
+
+
+<div style="background-color:#f1f7f3; padding:16px; border-radius:8px; margin-bottom:16px;">
+
+### Lead Conversion & Growth Strategy (Hermiona Education)  
+**Applied Machine Learning / Funnel Analytics**
+
+Analyzed multi-year marketing and referral data to identify key drivers of lead conversion.
+
+Translated model outputs into operational recommendations projected to improve conversion rates through faster response times and improved consultation completion.
+
+**Focus:** business impact, feature engineering, model interpretation
+
+</div>
+
+
+---
+
+
+<div style="background-color:#f1f7f3; padding:16px; border-radius:8px; margin-bottom:16px;">
+
+### Clustering Student Pathways  
+**Analytics & Visualization**
+
+Applied unsupervised learning and Tableau dashboards to identify patterns in student learning trajectories and surface inequities across academic pathways.
+
+Communicated findings to non-technical stakeholders to inform targeted, equity-driven interventions.
+
+**Focus:** pattern discovery, stakeholder communication, applied visualization
+
+</div>
+
+
+---
+
+## Core Strengths
+
+- Designing interpretable models for decision support  
+- Translating domain problems into analytical frameworks  
+- Data modeling and analytics close to operations  
+- Communicating insights to non-technical stakeholders  
+- Working at the boundary between technical rigor and human systems
+
+---
+
+## Technical Toolkit 
+
+- **Languages:** Python, SQL  
+- **Data Science:** pandas, NumPy, scikit-learn, gradient boosting, clustering  
+- **Analytics & Visualization:** Tableau, matplotlib  
+- **Data Modeling:** relational schema design, normalization, analytical SQL  
+- **Applied ML:** classification, clustering, OCR pipelines  
+- **Geospatial & Climate Context:** GIS, public climate and opinion datasets
+
+(Selected for relevance; not exhaustive.)
+
+---
+
+<div style="background-color:#f1f7f3; padding:14px; border-left:4px solid #9cccb3; margin-top:24px;">
+
+**Currently Building**  
+A decision-support dashboard for climate educators that translates public opinion data into actionable classroom strategies.  
+Initial delivery focuses on transparent indicators and rules-based recommendations, with narrative generation planned as a later phase.
+
+</div>
+
+---
+
+## Contact
+
+- LinkedIn: linkedin.com/in/abi-kambanis-data-science  
+- Email: abikambanis@icloud.com

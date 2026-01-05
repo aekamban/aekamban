@@ -7,7 +7,7 @@ My work sits at the intersection of data science, education systems, and climate
 
 I am currently preparing for full-time, mid-level data scientist roles in 2026.
 
-![sage divider](https://dummyimage.com/1200x6/f1f7f3/f1f7f3.png)
+![sage divider](https://dummyimage.com/1200x6/9cccb3/9cccb3.png)
 
 ### Featured Projects
 
@@ -20,7 +20,7 @@ Delivered a scalable schema with enforced business rules, indexing, and analytic
 
 **Focus:** data modeling, operational analytics, decision reliability
 
-![sage divider](https://dummyimage.com/1200x6/f1f7f3/f1f7f3.png)
+![sage divider](https://dummyimage.com/1200x6/9cccb3/9cccb3.png)
 
 #### Climate Action Readiness for Educators  
 ***Applied Data Science / Analytics***
@@ -31,7 +31,7 @@ This project integrates data science with climate education to support evidence-
 
 **Focus:** public data synthesis, decision support, education + climate impact
 
-![sage divider](https://dummyimage.com/1200x6/f1f7f3/f1f7f3.png)
+![sage divider](https://dummyimage.com/1200x6/9cccb3/9cccb3.png)
 
 #### Organizing DSAT Questions by Difficulty  
 ***Applied Machine Learning / Computer Vision***
@@ -42,7 +42,7 @@ Reduced manual categorization effort and improved instructional planning through
 
 **Focus:** applied ML pipelines, computer vision, real-world constraints
 
-![sage divider](https://dummyimage.com/1200x6/f1f7f3/f1f7f3.png)
+![sage divider](https://dummyimage.com/1200x6/9cccb3/9cccb3.png)
 
 #### Lead Conversion & Growth Strategy (Hermiona Education)  
 ***Applied Machine Learning / Funnel Analytics***
@@ -53,7 +53,7 @@ Translated model outputs into operational recommendations projected to improve c
 
 **Focus:** business impact, feature engineering, model interpretation
 
-![sage divider](https://dummyimage.com/1200x6/f1f7f3/f1f7f3.png)
+![sage divider](https://dummyimage.com/1200x6/9cccb3/9cccb3.png)
 
 #### Clustering Student Pathways  
 **Analytics & Visualization**
@@ -64,7 +64,7 @@ Communicated findings to non-technical stakeholders to inform targeted, equity-d
 
 **Focus:** pattern discovery, stakeholder communication, applied visualization
 
-![sage divider](https://dummyimage.com/1200x6/f1f7f3/f1f7f3.png)
+![sage divider](https://dummyimage.com/1200x6/9cccb3/9cccb3.png)
 
 ### Core Strengths
 
@@ -74,7 +74,7 @@ Communicated findings to non-technical stakeholders to inform targeted, equity-d
 - Communicating insights to non-technical stakeholders  
 - Working at the boundary between technical rigor and human systems  
 
-![sage divider](https://dummyimage.com/1200x6/f1f7f3/f1f7f3.png)
+![sage divider](https://dummyimage.com/1200x6/9cccb3/9cccb3.png)
 
 ### Technical Toolkit
 
@@ -85,14 +85,14 @@ Communicated findings to non-technical stakeholders to inform targeted, equity-d
 
 (Selected for relevance; not exhaustive.)
 
-![sage divider](https://dummyimage.com/1200x6/f1f7f3/f1f7f3.png)
+![sage divider](https://dummyimage.com/1200x6/9cccb3/9cccb3.png)
 
 ### Currently Building
 
 A decision-support dashboard for climate educators that translates public opinion data into actionable classroom strategies.  
 Initial delivery focuses on transparent indicators and rules-based recommendations, with narrative generation planned as a later phase.
 
-![sage divider](https://dummyimage.com/1200x6/f1f7f3/f1f7f3.png)
+![sage divider](https://dummyimage.com/1200x6/9cccb3/9cccb3.png)
 
 ### Contact
 

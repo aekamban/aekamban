@@ -90,7 +90,7 @@ This project will integrate data science with climate education to support evide
 ### Contact
 
 - LinkedIn: https://linkedin.com/in/abi-kambanis-data-science  
-- Email: abikambanis@icloud.com
+- Email: abikambanis@gmail.com
 
 ![sage divider](https://dummyimage.com/1200x6/9cccb3/9cccb3.png)
 

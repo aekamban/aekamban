@@ -1,96 +1,45 @@
-### Abi Kambanis  
-***Data Scientist***
+### Abi Kambanis
+**Higher Education Data Analyst | Data & Systems | SQL · Python · BI · Applied ML**
 
-I am an applied data scientist with a background in science and education. I deliver analytical systems that translate data into insights to inform strategy and operations, with a focus on socially impactful applications across diverse domains.
+I work at the intersection of data analysis, data systems, and higher education, currently supporting international education operations and reporting at the University of Rhode Island while completing an MS in Data Science. I'm looking for full-time roles in institutional research, business intelligence, or data/reporting analytics, ideally in higher ed, edtech, or mission-driven organizations.
 
-![sage divider](https://dummyimage.com/1200x6/9cccb3/9cccb3.png)
+![divider](https://dummyimage.com/1200x6/9cccb3/9cccb3.png)
 
-### Featured Projects
+### Selected work
 
-#### Tutor Management System  
-***SQL / Data Engineering***
+**[Percruit Growth & Placement Dashboard](https://github.com/aekamban/percruit-growth-dashboard)** Power BI
+Two-page dashboard tracking student engagement, readiness scoring, and application-to-hire funnel performance. *Skills: KPI design, DAX, stakeholder-facing BI.*
 
-Designed a normalized relational database to support scheduling, billing, and analytics for an education services business.
+**[Study Abroad Application Snapshot Pipeline](https://github.com/aekamban/study-abroad-snapshot-pipeline)** SQL (DuckDB) / Python
+Allows an office to answer week-over-week and year-over-year questions it otherwise couldn't. *Skills: data modeling, ETL design, institutional reporting systems.*
 
-Delivered a scalable schema with enforced business rules, indexing, and analytical queries to support reliable reporting on revenue, enrollment, and instructional capacity.
+**[Study Abroad Program Utilization Analysis](https://github.com/aekamban/study-abroad-program-utilization-analysis)** Python
+Ranks affiliate program enrollment by student major to inform which partnerships are worth deeper institutional investment. *Skills: business analytics, decision-ready reporting.*
 
-**Focus:** data modeling, operational analytics, decision reliability
+**[Tutor Management System](https://github.com/aekamban/tutor-management-system)** SQL
+A normalized 9-table relational schema and analytical queries for a tutoring business's scheduling, revenue, and capacity reporting. *Skills: relational data modeling, SQL.*
 
-![sage divider](https://dummyimage.com/1200x6/9cccb3/9cccb3.png)
+**[Clustering Student Pathways](https://github.com/aekamban/student-pathway-clustering)** Python
+Unsupervised learning to surface distinct student success/dropout pathways, with an explicit equity-focused fairness audit. *Skills: clustering, stakeholder communication, applied visualization.*
 
-#### Lead Conversion & Growth Strategy (Hermiona Education)  
-***Applied Machine Learning / Funnel Analytics***
+**[DSAT Difficulty Classification](https://github.com/aekamban/dsat-difficulty-classification)** Python / Computer Vision
+An end-to-end CV + OCR pipeline automating test-question difficulty labeling. *Skills: applied ML pipeline design, reproducibility under IP constraints.*
 
-Analyzed multi-year marketing and referral data to identify key drivers of lead conversion.
+![divider](https://dummyimage.com/1200x6/9cccb3/9cccb3.png)
 
-Translated model outputs into operational recommendations projected to improve conversion rates through faster response times and improved consultation completion.
+### Technical toolkit
 
-**Focus:** business impact, feature engineering, model interpretation
+- **Data & Systems:** SQL (MySQL, DuckDB), relational schema design, ETL/data pipeline design, data cleaning 
+- **Analysis:** Python (pandas, scikit-learn), statistical analysis, clustering, classification
+- **BI & Reporting:** Power BI (DAX, dashboard design), Tableau (exploratory use), Excel/Power Query for stakeholder-facing deliverables
+- **Communication:** translating technical findings for non-technical, decision-making audiences
 
-![sage divider](https://dummyimage.com/1200x6/9cccb3/9cccb3.png)
+![divider](https://dummyimage.com/1200x6/9cccb3/9cccb3.png)
 
-#### Organizing DSAT Questions by Difficulty  
-***Applied Machine Learning / Computer Vision***
+### Links
 
-Built an end-to-end ML pipeline combining image preprocessing, OCR, and classification to automate difficulty labeling for Digital SAT questions.
-
-Reduced manual categorization effort and improved instructional planning through consistent, reproducible difficulty estimates.
-
-**Focus:** applied ML pipelines, computer vision, real-world constraints
-
-![sage divider](https://dummyimage.com/1200x6/9cccb3/9cccb3.png)
-
-#### Clustering Student Pathways  
-**Analytics & Visualization**
-
-Applied unsupervised learning and Tableau dashboards to identify patterns in student learning trajectories and surface inequities across academic pathways.
-
-Communicated findings to non-technical stakeholders to inform targeted, equity-driven interventions.
-
-**Focus:** pattern discovery, stakeholder communication, applied visualization
-
-![sage divider](https://dummyimage.com/1200x6/9cccb3/9cccb3.png)
-
-### Core Strengths
-
-- Designing interpretable models and analytical systems for decision support  
-- Translating ambiguous domain problems into well-scoped data solutions  
-- Building analytics and ML workflows close to business and operational context  
-- Communicating technical insights clearly to non-technical stakeholders 
-
-![sage divider](https://dummyimage.com/1200x6/9cccb3/9cccb3.png)
-
-### Technical Toolkit
-
-- **Languages:** Python, SQL  
-- **Data Workflows:** data cleaning, feature engineering, analytical SQL, reproducible notebooks  
-- **Modeling & Evaluation:** classification, clustering, model comparison, interpretability  
-- **Data Modeling:** relational schema design, normalization, analytics-ready tables  
-- **Visualization & Communication:** Tableau, exploratory and stakeholder-facing analysis  
-- **Applied ML Systems:** OCR pipelines, end-to-end model workflows under real-world constraints  
-
-(Selected for relevance; not exhaustive.)
-
-![sage divider](https://dummyimage.com/1200x6/9cccb3/9cccb3.png)
-
-### Currently Building
-
-#### Climate Action Readiness for Educators  
-***Applied Data Science / Analytics***
-
-A decision-support dashboard for climate educators that translates public opinion data into actionable classroom strategies.  
-Initial delivery focuses on transparent indicators and rules-based recommendations, with narrative generation planned as a later phase.
-
-This project will integrate data science with climate education to support evidence-based action while respecting regional, social, and equity considerations.
-
-**Focus:** public data synthesis, decision support, education + climate impact
-
-![sage divider](https://dummyimage.com/1200x6/9cccb3/9cccb3.png)
-
-### Contact
-
-- LinkedIn: https://linkedin.com/in/abi-kambanis-data-science  
+- Portfolio: [datawithabi.com](https://datawithabi.com)
+- LinkedIn: [abi-kambanis-data-science](https://www.linkedin.com/in/abi-kambanis-data-science/)
 - Email: abikambanis@gmail.com
 
-![sage divider](https://dummyimage.com/1200x6/9cccb3/9cccb3.png)
-
+![divider](https://dummyimage.com/1200x6/9cccb3/9cccb3.png)

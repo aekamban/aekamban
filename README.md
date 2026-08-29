@@ -8,7 +8,7 @@ I build systems that turn messy real-world data and free-text input into structu
 ### Selected work
 
 **[Multi-Agent Impact Measurement Pipeline](https://github.com/aekamban/multi-agent-impact-pipeline)** Python / LangChain / Azure OpenAI / FAISS
-A four-agent LLM system (RAG over program curriculum, GPT-4.1) that turns free-text submissions from a climate-education nonprofit into funder-ready impact reporting, replacing a form nobody filled out on time. Includes a real evaluation harness (precision/recall with confidence intervals, self-consistency checks) for the extraction step, not just anecdotal testing. *Skills: agentic LLM systems, RAG, LangChain, evaluation methodology.*
+A four-agent LLM system (RAG over program curriculum, GPT-4.1) that turns free-text submissions from a climate-education nonprofit into funder-ready impact reporting, replacing a form few filled out on time. Includes a real evaluation harness (precision/recall with confidence intervals, self-consistency checks) for the extraction step, not just anecdotal testing. *Skills: agentic LLM systems, RAG, LangChain, evaluation methodology.*
 
 **[Clustering Student Pathways](https://github.com/aekamban/student-pathway-clustering)** Python
 K-Means and UMAP to surface distinct student success/dropout pathways, with an explicit chi-square fairness audit checking cluster membership against demographic attributes. *Skills: unsupervised learning, statistical validation, equity-centered analysis.*

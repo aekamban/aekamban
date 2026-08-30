@@ -8,9 +8,11 @@ I build systems that turn messy real-world data and free-text input into structu
 ### Selected work
 
 **[Multi-Agent Impact Measurement Pipeline](https://github.com/aekamban/multi-agent-impact-pipeline)** Python / LangChain / Azure OpenAI / FAISS
+
 A four-agent LLM system (RAG over program curriculum, GPT-4.1) that turns free-text submissions from a climate-education nonprofit into funder-ready impact reporting, replacing a form few filled out on time. Includes a real evaluation harness (precision/recall with confidence intervals, self-consistency checks) for the extraction step, not just anecdotal testing. *Skills: agentic LLM systems, RAG, LangChain, evaluation methodology.*
 
 **[Reef Fish Species Classifier](https://github.com/aekamban/reef-fish-species-classifier)** · Python / TensorFlow / Keras  
+
 Built an end-to-end deep learning pipeline for fine-grained classification of 16 reef fish species from real-world iNaturalist imagery, combining transfer learning, controlled data-scarcity experiments, taxonomic modeling, and multimodal image + spatiotemporal features. Adding latitude, longitude, and observation date to an EfficientNetB0 image model improved test accuracy from **78.33% to 89.48%** (+11.15 pts; paired bootstrap 95% CI excludes zero, McNemar p < 0.0001). Also diagnosed a failed class-targeted augmentation strategy and redesigned it to recover **+0.113 macro F1** on low-data species. *Skills: deep learning, transfer learning, multimodal fusion, TensorFlow pipelines, ablation studies, statistical model evaluation, error analysis.*
 
 **[Clustering Student Pathways](https://github.com/aekamban/student-pathway-clustering)** Python

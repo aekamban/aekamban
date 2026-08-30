@@ -1,5 +1,5 @@
 ### Abi Kambanis
-**Data Scientist | Applied ML & Generative AI**
+**ML Engineer & Data Scientist | Applied ML & Generative AI**
 
 I build systems that turn messy real-world data and free-text input into structured, decision-ready output: multi-agent LLM applications with RAG, unsupervised learning for equity-focused analysis, computer vision pipelines, and the SQL/data engineering underneath all of it. I'm currently supporting international education operations and reporting at the University of Rhode Island while finishing an MS in Data Science, and I'm looking for full-time Data Scientist / Applied ML roles.
 

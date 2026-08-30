@@ -8,6 +8,7 @@ I build systems that turn messy real-world data and free-text input into structu
 ### Selected work
 
 **[Multi-Agent Impact Measurement Pipeline](https://github.com/aekamban/multi-agent-impact-pipeline)** Python / LangChain / Azure OpenAI / FAISS
+
 A four-agent LLM system (RAG over program curriculum, GPT-4.1) that turns free-text submissions from a climate-education nonprofit into funder-ready impact reporting, replacing a form few filled out on time. Includes a real evaluation harness (precision/recall with confidence intervals, self-consistency checks) for the extraction step, not just anecdotal testing. *Skills: agentic LLM systems, RAG, LangChain, evaluation methodology.*
 
 **[Reef Fish Species Classifier](https://github.com/aekamban/reef-fish-species-classifier)** · Python / TensorFlow / Keras  
